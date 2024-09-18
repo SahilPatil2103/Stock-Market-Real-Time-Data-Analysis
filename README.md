@@ -17,7 +17,7 @@ This project demonstrates a real-time stock market data analysis system that cap
   - **Glue Catalog**
 
 ## 4. Execution
-For detailed steps executed for the project, including screenshots and codes, please refer to the [Execution Guide](docs/execution_guide.md). This guide will walk you through the process from setting up Kafka to python code.
+For detailed steps executed for the project, including screenshots and codes, please refer to the [Execution Guide](./Execution%20Guide.md). This guide will walk you through the process from setting up Kafka to python code.
 
 ## 5. Dataset Used
 The dataset contains stock market data. You can download it [Here](https://drive.google.com/uc?export=download&id=1aKdndcA-8rgXHk4t2n2yBUkeaMb1tDZb).
