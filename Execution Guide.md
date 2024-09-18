@@ -4,7 +4,7 @@ This document provides a step-by-step guide on executing the project along with 
 
 ## Step 1: Kafka Setup
 
-To set up **Apache Kafka** on your machine, ensure you have installed Zookeeper and Kafka correctly. [Click here](https://drive.google.com/uc?export=download&id=1lzxtu2iqhHc4TxvkXWBg3GGVFO1mq3CD) for the installation guide.
+To set up **Apache Kafka** on your machine, ensure you have installed Zookeeper and Kafka correctly. [Click here](./Kafka%20Setup.md) for the installation guide.
 
 Once Kafka is set up, you will need to run the following services:
 1. **Zookeeper**: Starts the Zookeeper instance needed by Kafka.
