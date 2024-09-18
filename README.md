@@ -21,7 +21,3 @@ For detailed steps executed for the project, including screenshots and codes, pl
 
 ## 5. Dataset Used
 The dataset contains stock market data. You can download it [here](dataset.csv).
-
----
-
-This version now includes a brief introduction, a list of technologies used in a more organized format, and a concise execution section pointing to a separate document. Let me know if you’d like any further tweaks!
