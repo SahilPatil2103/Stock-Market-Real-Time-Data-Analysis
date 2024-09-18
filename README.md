@@ -4,7 +4,7 @@
 This project demonstrates a real-time stock market data analysis system that captures live stock data, processes it using a data pipeline, and provides insights. The system utilizes **Apache Kafka** to fetch and stream real-time stock data, while **Python** is used to simulate stock market trends and analyze the data. The processed data is then stored in **AWS S3**. Using **AWS Glue Crawler** and **Glue Catalog**, the data is cataloged and prepared for querying. Finally, **AWS Athena** is used to run SQL queries on the stored data, allowing for insightful analysis and trend identification.
 
 ## 2. Architecture Diagram
-![Architecture Diagram](C:\Users\sahil\OneDrive\Documents\Stock Market Project)
+![Architecture Diagram](Architecture.jpg)
 
 ## 3. Technologies Used
 - **Programming Language**: Python
