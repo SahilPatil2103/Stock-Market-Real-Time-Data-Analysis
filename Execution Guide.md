@@ -1,6 +1,6 @@
 # Stock Market Real-Time Data Analysis Execution Guide
 
-This document provides a step-by-step guide on executing the project along with screenshots and code from the Jupyter Notebook.
+This document provides a step-by-step guide on how the project was executed along with screenshots and code from the Jupyter Notebook.
 
 ## Step 1: Kafka Setup
 
